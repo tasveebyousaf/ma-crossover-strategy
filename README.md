@@ -1,6 +1,6 @@
 # 📈 ma-crossover-strategy
 
-A beginner-friendly quantitative trading strategy built in Python. Uses a **Moving Average Crossover** signal on historical stock data to simulate a long-only trading strategy — with real performance metrics and charts.
+A beginner-friendly quantitative trading strategy built in Python. Uses a **Moving Average Crossover** signal on historical stock data to simulate a long-only trading strategy with real performance metrics and charts.
 
 Built as a quant hackathon project.
 
