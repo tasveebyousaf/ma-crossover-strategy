@@ -83,7 +83,7 @@ The chart shows:
 
 Here’s an example output of the strategy:
 
-![MA Crossover Strategy](strategy_results.png)
+![MA Crossover Strategy](strategy_results.png.png)
 ## Limitations
 
 - **Lagging** — MAs react to price moves, never anticipate them
