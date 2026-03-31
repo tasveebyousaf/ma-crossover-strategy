@@ -79,7 +79,11 @@ The chart shows:
 - Strategy portfolio value vs. buy-and-hold benchmark (indexed to 100)
 
 ---
+## Results
 
+Here’s an example output of the strategy:
+
+![MA Crossover Strategy](ma_strategy_plot.png)
 ## Limitations
 
 - **Lagging** — MAs react to price moves, never anticipate them
